@@ -1,1 +1,3 @@
-six
+rio ganteng banget anjaiii six
+stash 2
+modif file stash 1
